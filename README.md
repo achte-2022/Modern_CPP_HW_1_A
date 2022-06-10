@@ -1,5 +1,6 @@
 # Homework. 1: Bash
-## Modern C++for Computer Vision and Image Processing Institute of Geodesy and Geoinformation
+## Modern C++for Computer Vision and Image Processing 
+## Institute of Geodesy and Geoinformation
 
 Tejas Acharya [Twitter](https://twitter.com/achte_te)
 
@@ -7,7 +8,7 @@ To Run:
 ```sh
 bash commands.sh
 ```
-
+Source Code:
 ```sh
 #Count how many lines are there in “data.dat”.
 echo "Number of lines in data.dat: "
