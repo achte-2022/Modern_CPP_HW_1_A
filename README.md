@@ -1,5 +1,5 @@
 # Homework. 1: Bash
-## Modern C++for Computer Vision and Image Processing 
+## Modern C++ for Computer Vision and Image Processing 
 ## Institute of Geodesy and Geoinformation
 
 Tejas Acharya [Twitter](https://twitter.com/achte_te)
