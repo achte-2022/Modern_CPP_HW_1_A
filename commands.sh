@@ -1,3 +1,8 @@
+#Tejas Acharya
+# @achte_te
+#!/usr/bin/env bash
+echo "Running commands.sh"
+
 #Count how many lines are there in “data.dat”.
 echo "Number of lines in data.dat: "
 wc -l data.dat
